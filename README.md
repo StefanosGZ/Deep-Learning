@@ -15,3 +15,4 @@ HW2 includes following files:
 - homework2.pdf : Homework instructions
 - hw2-q2.py : Second assignment of the homework (Image classification with CNNs.)
 - hw2-q3.ipynb : Third assignment of the homework (Automatic Speech Recognition.)
+- utils.py : Utility classes
